@@ -39,7 +39,7 @@ is_admin = True
 #float -> int
 fl =  int(12.5) #làm tròn xuống chỉ lấy phần nguyên
 # boolean -> int
-is_admin = int(true) #1 -true
+#is_admin = int(true) #1 -true
 
 #2.float()
 float = (8)
