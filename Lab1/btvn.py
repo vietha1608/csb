@@ -27,3 +27,11 @@ if z_new >= 0:
     pass
 else:
     print("eror:the number must bigger than 0 yêu cầu nhập lại cho đến khi hợp lệ")
+
+#btvn 2
+a = input(2)
+b = input(4)
+a_new = int(a)
+b_new = int(b)
+sum = a_new + b_new
+print(sum)
